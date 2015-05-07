@@ -14,7 +14,7 @@ One of many indicators for questions like these may be the similarity of two tex
 
 The Levenshtein distance is a concept to measure text dissimilarity. It counts the **minimal number of insertions, deletions and substitutions needed to transform one string into another**.
 
-My course project Shiny app is an online calculator to figure out the Levenshtein distance between to texts.
+My course project Shiny app is an online calculator to figure out the Levenshtein distance between two texts.
 
 The R implementation of the Levenshtein distance
 ========================================================
